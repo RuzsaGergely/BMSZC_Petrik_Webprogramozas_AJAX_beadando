@@ -1,5 +1,9 @@
 # AJAX beadandó - webprog
 
+## Szolgálati közlemény
+Utólagosan vettem észre, hogy a projekt (és a repo) neve nem egyezik meg azzal amit a feladatsorban kértek. Ezúton is elnézést kérek a kellemetlenségért! ~ RGG
+
+## Feladatkiírás
 Készíts CRUD vite projektet.
 - Projekt neve: sajatnev-ajax-crud formában legyen megadva.
 - Beadandó: github repo, aminek a neve egyezzen meg a projekt nevével.
